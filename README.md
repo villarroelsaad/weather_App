@@ -4,6 +4,6 @@
 ![App](public/Weather_app.png)
 
 
-To use write in directory terminal:
+To use, write in directory terminal:
 
-_npm install_ and _npm run dev_
+**npm install** and **npm run dev**
