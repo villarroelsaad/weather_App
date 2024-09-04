@@ -6,4 +6,4 @@
 
 To use write in directory terminal:
 
-*npm install* and *npm run dev*
+_npm install_ and _npm run dev_
